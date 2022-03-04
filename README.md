@@ -8,8 +8,8 @@
    - Enitiy Layer
    - Data Access Layer
    - Businees Logic Layer
-   - Presentation Layer
- -Fluent Validation and Interfaces for Business Logic Layer will be added...
+   - Presentation Layer 
+-Fluent Validation and Interfaces for Business Logic Layer will be added...
 
 ### Website Link : http://dailymirror.somee.com/
 
