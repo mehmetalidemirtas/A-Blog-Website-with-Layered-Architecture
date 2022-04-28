@@ -7,7 +7,7 @@
  - Layered-Architecture
    - Enitiy Layer
    - Data Access Layer
-   - Businees Logic Layer
+   - Business Logic Layer
    - Presentation Layer 
 
 ### Website Link : http://dailymirror.somee.com/
